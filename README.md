@@ -1,1 +1,8 @@
-# ibl-importer
+# IBL-Importer
+
+IBL Importer is a tool I'm developing on my free time. 
+The tool has been developed out of necessity as I have hundreds of different HDRIs and Light Maps that I use for my CG Renders and manually going through files, testing in the scene, and redoing the process until I found one is extremely time consuming when you have that many files to go through.
+
+## Features
+
+## Future Updates
