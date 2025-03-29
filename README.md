@@ -16,6 +16,15 @@ IBL Importer has also been proven extremely useful and successful in Production 
 
 ## Features
 
+-Adds any Light Map or HDRI from the users Library to the user's scene.
+-Creates a simple setup with an AiBlackBody so the user can adjust light temperature correctly. 
+-Allows the user to set up Light Intensity and Exposure before importing the lights into the scene.
+-Allows the user to choose how many items get loaded in at the same time on the UI.
+-Sets up the correct colour space for the files in the user's shaders.
+
+Houdini specific: 
+- Allows the user to choose between Arnold and Solaris Lights before creation of lights in the scene.
+- Creates a Material Network called “LGT_Shaders” on the user's /obj section, all the light shaders will be stored here and properly connected to the light.
 
 ## Future Updates
 
