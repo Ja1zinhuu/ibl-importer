@@ -1,4 +1,5 @@
 # IBL-Importer
+v0.1
 
 IBL Importer is a tool I'm developing on my free time and is compatible with Maya (2023+) and Houdini (19.0+). 
 
