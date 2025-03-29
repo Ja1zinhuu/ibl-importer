@@ -6,7 +6,15 @@ The tool has been developed out of necessity as I have hundreds of different HDR
 
 IBL Importer has also been proven extremely useful and successful in Production Environments, by being used by artists at The Flying Colour Company.
 
+###IBL Importer in Maya
+![unnamed (1)](https://github.com/user-attachments/assets/215af1e8-df76-4ceb-9a47-6f076d46757d)
+
+###IBL Importer in Houdini
+![unnamed](https://github.com/user-attachments/assets/946379ee-4c1c-4aac-b1ab-cca8f1623230)
+
+
 ## Features
+
 
 ## Future Updates
 
