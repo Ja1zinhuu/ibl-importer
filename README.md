@@ -23,7 +23,7 @@ IBL Importer has also been proven extremely useful and successful in Production 
 - Allows the user to choose how many items get loaded in at the same time on the UI.
 - Sets up the correct colour space for the files in the user's shaders.
 
-Houdini specific: 
+### Houdini specific: 
 - Allows the user to choose between Arnold and Solaris Lights before creation of lights in the scene.
 - Creates a Material Network called “LGT_Shaders” on the user's /obj section, all the light shaders will be stored here and properly connected to the light.
 
